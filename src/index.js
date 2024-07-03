@@ -17,7 +17,7 @@ const routes = {
   "ecr.jiayi.free.hr": "https://public.ecr.aws",
 
   // staging
-  "docker-staging.libcuda.so": dockerHub,
+  "docker-staging.jiayi.free.hr": dockerHub,
 };
 
 function routeByHosts(host) {
