@@ -15,6 +15,7 @@ const routes = {
   "ghcr.jiayi.free.hr": "https://ghcr.io",
   "cloudsmith.jiayi.free.hr": "https://docker.cloudsmith.io",
   "ecr.jiayi.free.hr": "https://public.ecr.aws",
+  "file.jiayi.free.hr": "https://github.com",
 
   // staging
   "docker-staging.jiayi.free.hr": dockerHub,
