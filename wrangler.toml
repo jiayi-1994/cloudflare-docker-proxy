@@ -7,7 +7,7 @@ port = 8787
 local_protocol = "http"
 
 [env.vars]
-CUSTOM_DOMAIN = "jiayi.free.hr"
+CUSTOM_DOMAIN = "xjyi.me"
 
 [env.dev.vars]
 MODE = "debug"
